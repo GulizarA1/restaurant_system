@@ -19,7 +19,7 @@ Bu proje, bir restoranda masalara gelen yemeklerin tanınması, fiyatlandırılm
 - SQLite, Pandas
 
 ## 📷 Ekran Görüntüleri
-> `screenshots/` klasörüne görüntüleri ekleyebilirsin.
+> `screenshots/` 
 
 ## 📁 Proje Yapısı
 yemek_garson_sistemi/
@@ -31,8 +31,8 @@ yemek_garson_sistemi/
 
 
 ## 🎥 Video
-> [Video bağlantısı buraya eklenecek]
+> []
 
 ## 👩‍💻 Geliştiren
-**Gülizar – Bilgisayar Mühendisliği Öğrencisi**
+**Gülizar Altıntaş – Bilgisayar Mühendisliği Öğrencisi**
 
